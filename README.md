@@ -29,7 +29,7 @@
 <br />
 <br />
 
-![Sumayyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumayyahc1&show_icons=true&theme=radical)
+![Sumayyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumayyahc1&show_icons=true&theme=dark)
 
 [![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=2468186)](https://github.com/kurt-liao/so-stats)
 
