@@ -31,7 +31,7 @@
 
 ![Sumayyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumayyahc1&show_icons=true&theme=dark)
 
-[![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=2468186)](https://github.com/kurt-liao/so-stats)
+[![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=2468186)](https://stackoverflow.com/users/2468186/moon-cat)
 
 [linkedin]: https://www.linkedin.com/in/sumayyahc
 [twitter]: https://twitter.com/sumayyah_c1
